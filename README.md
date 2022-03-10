@@ -1,4 +1,4 @@
-# repro for https://github.com/facebook/jest/issues/12562
+# Cannot repro https://github.com/facebook/jest/issues/12562
 
 ```bash
 $ yarn
