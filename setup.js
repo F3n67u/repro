@@ -1,3 +1,3 @@
 export default function () {
-  console.log(import.meta.url);
+  console.log('\nimport.meta.url is: ', import.meta.url);
 }
